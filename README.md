@@ -112,7 +112,7 @@ Linkek
 
 [Media Markt](http://mediamarkt.hu/) 
 
-Automatikus link [https://arpadszki.hu]
+Automatikus link https://arpadszki.hu
 
 
 Képek
