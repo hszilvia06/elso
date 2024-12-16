@@ -40,7 +40,7 @@ _Dőlt másként_
 
 ### Felsorolás
 
-+  Hozzon létre egy listát úgy, hogy egy sort kezd ezzel +, -, vagy *
++  Hozzon létre egy listát úgy, hogy egy sort kezd ezzel `+`, `-`, vagy `*`
 + A részlisták 2 szóköz behúzásával készülnek:
     * A felsorolásjel karakterének megváltoztatása új lista indítását jelenti:
        * Alma
