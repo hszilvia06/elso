@@ -1,13 +1,11 @@
 **Hirdetés**
 
-__[Jófogás](https://jofogas.hu/)__- Magyarország legnagyobb online apróhirdetési oldala.
+- __[Jófogás](https://jofogas.hu/)__- Magyarország legnagyobb online apróhirdetési oldala.
 - __[HardverApró](https://harverapro.hu/)__ - Itt megtalálod, amit keresel!
 
 
 # h1 fejezet
-## ----------
 ## h2 fejezet
-## ----------
 ### h3 fejezet
 #### h4 fejezet
 ##### h5 fejezet
@@ -18,7 +16,7 @@ Vízszintes vonalak
 ------------
 
 ## Hangsúlyozás
-## ------------
+
 __Félkövér__
 
 **Félkövér másként**
@@ -79,9 +77,9 @@ Gyakorlás
 
 Blokk kód
 
-
+```
 Egyszerű szöveg...
-
+```
 
 Szintaxis kiemelés
 
@@ -128,10 +126,9 @@ Képek
 
 ## [Lábjegyzet](https://github.com/markdown-it/markdown-it-footnote)
 Forgalomirányító protokollok:  
-* RIP
-* OSPF
+* RIP[^1]
+* OSPF[^2]
 
-1. Routing Information Protocol
------------
-2. Open Shortest Path First
----------
+[^1]: Routing Information Protocol
+[^2]: Open Shortest Path First
+
